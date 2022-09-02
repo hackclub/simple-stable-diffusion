@@ -2,7 +2,7 @@
 
 get stable diffusion running in <10 minutes in colab:
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1VDSi8ZpnzsN5Px5xPhRWriLKMUG5qIPJ?usp=sharing)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/hackclub/simple-stable-diffusion/blob/main/simple_stable_diffusion.ipynb)
 
 this notebook contains:
 1. the absolute minimum code needed to generate images with stable diffusion
@@ -13,6 +13,10 @@ currently this notebook only works on colab and not when run locally; a pr chang
 ## what is stable diffusion?
 
 [stable diffusion](https://github.com/CompVis/stable-diffusion) is a text-to-image model similar to [dall·e 2](https://openai.com/dall-e-2/); that is, it inputs a text description and uses ai to output a matching image
+
+for instance, the following image was generated with stable diffusion using the prompt `gallant thoroughbred, a surrealist painting by Andy Warhol, mystical, ominous`:
+
+![gallant thoroughbred, a surrealist painting by Andy Warhol, mystical, ominous](horse.png)
 
 it is generally considered to be of similar quality to dall·e, but is:
 1. more computationally efficient
