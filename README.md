@@ -1,4 +1,4 @@
-# simple stable diffusion
+# simple stable diffusion 🌄
 
 get stable diffusion running in <10 minutes in colab:
 
